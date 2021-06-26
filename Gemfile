@@ -56,6 +56,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #本番環境用の設定
 group :production do
-    gem 'pg','1.4.1'
+    gem 'pg','1.1.4'
 end
 
