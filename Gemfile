@@ -57,6 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #本番環境用の設定
 group :production do
     gem 'pg','1.4.1'
-    gem 'byebug','11.0.1'
 end
 
